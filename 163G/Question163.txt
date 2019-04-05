@@ -1,0 +1,4 @@
+Git Pull: Performs the actions of git fetch and git merge
+
+Git Fetch: It imports chnages from remote repo but does not merge them
+ 

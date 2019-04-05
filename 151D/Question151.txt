@@ -1,0 +1,7 @@
+ $ export DOCKER_ID_USER="sshatdarsanam"
+ $docker login
+ $docker pull node
+ $docker tag node docker123
+ $docker tag docker123 sshatdarsanam/docker123:latest
+
+$docker push sshatdarsanam/docker123

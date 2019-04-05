@@ -1,0 +1,3 @@
+ $docker ps
+ $docker commit f780930d51a7 sshatdarsanam/doc:srav1819
+ $docker images

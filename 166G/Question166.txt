@@ -1,0 +1,8 @@
+git branch cert
+git push -u origin cert
+git checkout cert
+git checkout -b sample
+git flow feature start sample
+git checkout cert
+git merge sample
+git branch -D sample
